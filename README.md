@@ -3,7 +3,7 @@
 I am a computer science graduate based in the Cologne/Bonn region (Germany). I recently graduated with my bachelor's degree and I am now looking for my next challenge.
 - My main programming languages are python 🐍 and java ☕
 - I'm open to new work opportunities👨‍💼
-- I would love to contribute to open source projects.
+- I would love to contribute to open source projects
 
 <!--
 **amnotir/amnotir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
