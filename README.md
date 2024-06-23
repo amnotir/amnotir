@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I am a computer science student based in Cologne/Bonn (Germany). I will hopefully graduate in a couple of weeks. 😁
-
-- I'm currently finishing up my bachelor's thesis 📘
+I am a computer science graduate based in the Cologne/Bonn region (Germany). I recently graduated with my bachelor's degree and I am now looking for my next challenge.
 - My main programming languages are python 🐍 and java ☕
 - I'm open for new work opportunities👨‍💼
-- I would love to contribute to open source projects. Any easy issues for beginners welcome🔰
+- I would love to contribute to open source projects.
 
 <!--
 **amnotir/amnotir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
