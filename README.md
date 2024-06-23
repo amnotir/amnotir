@@ -2,7 +2,7 @@
 
 I am a computer science graduate based in the Cologne/Bonn region (Germany). I recently graduated with my bachelor's degree and I am now looking for my next challenge.
 - My main programming languages are python 🐍 and java ☕
-- I'm open for new work opportunities👨‍💼
+- I'm open to new work opportunities👨‍💼
 - I would love to contribute to open source projects.
 
 <!--
